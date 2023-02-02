@@ -5,7 +5,7 @@
     double num = Math.random();
     if (num > 0.5) {
   %>
-      <h2>Laurentiu is above average!</h2><p>(<%= num %>)</p>
+      <h2>Laurentiu is a devops engineer!</h2><p>(<%= num %>)</p>
   <%
     } else {
   %>
